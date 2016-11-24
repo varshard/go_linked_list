@@ -1,0 +1,1 @@
+My experimentation with Golang's pointer by creating a Linked List with Golang.
